@@ -1,0 +1,13 @@
+BookEnabled=1
+BookLearn=1
+BookPath=TestBook.scb
+ContemptEnd=0
+ContemptMid=0
+DebugLog=0
+DrawOffers=1
+EvalWhitePOV=0
+HashMB=64
+LogGames=1
+Resign=1
+SyzygyPath=
+Threads=1
