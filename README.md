@@ -9,7 +9,7 @@ https://komodochess.com/pub/sim03_win.zip
 
 #### Results
 
-This is a simple test w/ default settings.  Results should be easy to replicate. One basic question: out of 2000 positions, how often (what percentage?) do the two engines agree on best move?
+This is a simple test w/ default settings.  Results should be easy to replicate. Basic questions are: which engine (or engines) is engineX most similar to? Out of 2000 positions, how often (what percentage?) do the two engines agree on best move?
 
 |                       |
 | --------------------- |
