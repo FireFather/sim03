@@ -11,6 +11,29 @@ https://komodochess.com/pub/sim03_win.zip
 
 This is a simple test w/ default settings.  Results should be easy to replicate. Basic questions are: which engine (or engines) is engineX most similar to? Out of 2000 positions, how often (what percentage?) do the two engines agree on best move?
 
+-------------------------------------------------
+
+A couple of NNUE engines w/ a high similarity to Stockfish:
+
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Ethereal-13.07.png)
+
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Rebel-15.png)
+
+-------------------------------------------------
+
+A few NNUE engines w/ a low similarity to Stockfish:
+
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Mayhem-6.3.png)
+ 
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Tucano-8.00.png)
+ 
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Fire-zero.png)
+ 
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/SlowChess-2.9.png)
+  
+ -------------------------------------------------
+ 
+  More: (click to view)
 |                       |
 | --------------------- |
 |[Berserk-4.6.0.md](reports/Berserk-4.6.0.md)|
