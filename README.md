@@ -13,15 +13,19 @@ This is a simple test w/ default settings.  Results should be easy to replicate.
 
 -------------------------------------------------
 
-A couple of NNUE engines w/ a highest similarity to Stockfish (of engines tested):
+NNUE engines w/ a highest similarity to Stockfish (of engines tested):
 
+ ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Seer-2.5.0.png)
+
+  ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Koivisto-6.0.png)
+ 
  ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Ethereal-13.07.png)
 
  ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Rebel-15.png)
 
 -------------------------------------------------
 
-A few NNUE engines w/ a low similarity to Stockfish:
+NNUE engines w/ a very low similarity to Stockfish:
 
  ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Mayhem-6.3.png)
  
