@@ -13,7 +13,7 @@ This is a simple test w/ default settings.  Results should be easy to replicate.
 
 -------------------------------------------------
 
-NNUE engines w/ a highest similarity to Stockfish (of engines tested):
+NNUE engines w/ a high similarity to Stockfish (of engines tested):
 
  ![alt tag](https://raw.githubusercontent.com/FireFather/sim03/main/reports/Seer-2.5.0.png)
 
